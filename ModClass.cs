@@ -22,7 +22,7 @@ namespace Deez_Nuts_Mod
 
         public string LanguageGet(string key, string sheetTitle, string orig)
         {
-            //Make everything "Deez Nuts"
+            //Make everything "my butt"
             return textToSwap;
         }
     }
